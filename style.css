@@ -1,0 +1,54 @@
+body {
+    background-color: honeydew;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: darkred;
+    text-align: center;
+    background-color: lightcoral;
+    border-width: 2px;
+    border-style: solid;
+    border-color: maroon;
+    padding: 0px;
+}
+
+.img {
+    display: block;
+    width: 350px;
+    height: 275px;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin: auto;
+}
+
+.desc {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: firebrick;
+    text-align: center;
+    font-weight: bold;
+}
+
+.inst {
+    font-size: 35px;
+    text-align: center;
+}
+
+.ing {
+    margin: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;       
+}
+
+.steps {
+    margin: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
+
+.one {
+    margin: 30px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;    
+}
